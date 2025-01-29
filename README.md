@@ -11,7 +11,7 @@ utilizando o Atlas para a versão online e o RealmDB para versão offline! <br/>
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/IgorGMendonca/Ignite-feed/blob/main/project1.jpg">
+  <img alt="License" src="https://github.com/IgorGMendonca/igniteFleet/blob/master/assets/capa.png">
 </p>
 
 <br>
